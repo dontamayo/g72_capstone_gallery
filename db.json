@@ -1,0 +1,171 @@
+{
+    "artists": [
+      {
+          "id": 1,
+          "name": "Davia DeNisco",
+          "cover":"davia4.jpg",
+          "bio":"My name is Davia DeNisco, and I’m a software engineer based in New York City. Before pursuing web development, I worked in event management for The Estée Lauder Companies and for The Open Society Foundations. I'm currently looking for a full-time position as a software engineer. In the meantime, I'm working on several freelance projects and will soon be teaching an intro to JavaScript class. In my free time, I like to rescue cats, kiss wolves, hike across volcanoes, and do JavaScript algorithms.",
+          "albums": [
+              {"albumId":"a1","title":"Electric Ladyland","year":1968,"cover":"davia.jpg","price":20},
+              {"albumId":"a2","title":"Experience","year":1971,"cover":"davia2.jpg","price":25},
+              {"albumId":"a3","title":"Isle of Wright","year":1971,"cover":"davia3.jpg","price":15},
+              {"albumId":"a4","title":"Band of Gypsys","year":1970,"cover":"davia4.jpg","price":10}
+          ],
+          "Capstone":"Student Gallery"
+      },
+      {
+          "id": 2,
+          "name": "David Nyman",
+          "cover":"david5.jpg",
+          "bio":"Starting with a background in music composition for film and commercials, I am excited to shift gears into the world of web development. As someone who likes to be behind the scenes, I have enjoyed learning about the internet's inner workings. I am currently seeking full-time employment as a software engineer. Though music is my domain (pun intended), I am open to new opportunities in a variety of fields.",
+          "albums": [
+              {"albumId":"b1","title":"Like a Virgin","year":1984,"cover":"david.jpg","price":20},
+              {"albumId":"b2","title":"True Blue","year":1986,"cover":"david2.jpg","price":25},
+              {"albumId":"b3","title":"Erotica","year":1994,"cover":"david3.jpg","price":15},
+              {"albumId":"b4","title":"Ray of Light","year":1998,"cover":"david7.jpg","price":10}
+          ],
+          "Capstone":"Serenity Now"
+      },
+      {
+          "id": 3,
+          "name": "Don Tamayo",
+          "cover":"don5.jpg",
+          "bio":"My name is Don Tamayo. I started Web Developing through affiliate marketing, with curiosity on how to make money online, from then I started creating websites, monetizing, optimizing using different platforms to compete with other popular websites. My eagerness to grow my passion became stronger until I decided to formally train myself and enrolled in Galvanize which I learned unlimited load of knowledge. Outside of developer’s world, I am passionate in leading and serving my Church as a Seventh-day Adventist Pastor/Teacher in Philippines and in New Jersey SDA Conference. (2009 - 2017). I’m actively working as a freelance contractor in New Jersey, also I’m available to work full time position as a Full-Stack Engineer and join the workforce of Creative Mind in the World of technology.",
+          "albums": [
+              {"albumId":"c1","title":"Ain't No Grave","year":2010,"cover":"don.jpg","price":20},
+              {"albumId":"c2","title":"Out Among the Stars","year":2014,"cover":"don2.jpg","price":25},
+              {"albumId":"c3","title":"Solitary Man","year":2000,"cover":"don6.jpg","price":15},
+              {"albumId":"c4","title":"The Man Comes Around","year":2002,"cover":"don4.jpg","price":10}
+          ],
+          "Capstone":"Carmania"
+      },
+      {
+          "id": 4,
+          "name": "Jonathan Aquarone",
+          "cover":"jon.jpg",
+          "bio":"Hello my name is Jonathan and I've got chops in all phases of design, prototyping and development process. I collaborate with clients and peers to nurture and transform ideas into well thought out design specs. Afer all, that's where the majority of amazing user experiences start. I sketch and wireframe interfaces focusing on content structure, intuitive UI patterns and simple interactions. I'm a minimalist who truly believes that less is more. To validate product features, I quickly prototype and have potential users test the product using Product Management methodologies. I can build full stack web applications to get your product out the door and into users hands as fast as possible.",
+          "albums": [
+              {"albumId":"d1","title":"The Wall","year":1979,"cover":"jon3.jpg","price":20},
+              {"albumId":"d2","title":"The Dark Side of the Moon","year":1973,"cover":"jon4.jpg","price":25},
+              {"albumId":"d3","title":"Animals","year":1977,"cover":"jon2.jpg","price":15}
+          ],
+          "Capstone":"Pro Spots"
+      },
+      {
+        "id": 5,
+        "name": "Kyle Treman",
+        "cover":"kyle8.jpg",
+        "bio":"I became interested in software development while working with start-ups. I saw the ways in which well designed technology magnified a business's success and improved the lives of its customers. I’ve always been interested in solving problems, especially problems that required me to build something or where I could help others, so web development became a natural fit. In addition to coding, I spend time organizing, leading or speaking at community events, be it for algorithms or philosophy.",
+        "albums": [
+            {"albumId":"e1","title":"The extremist","year":1979,"cover":"kyle.jpg","price":20},
+            {"albumId":"e2","title":"Super colossal","year":1997,"cover":"kyle3.jpg","price":25},
+            {"albumId":"e3","title":"Engines of creation","year":2000,"cover":"kyle4.jpg","price":15},
+            {"albumId":"e4","title":"Surfing with the alien","year":1985,"cover":"kyle5.jpg","price":15}
+        ],
+        "Capstone":"Feed Me"
+        },
+        {
+            "id": 6,
+            "name": "Mike Allen",
+            "cover":"mike1.jpg",
+            "bio":"I am a Web Developer who has over 10 plus years experience in UI/UX design. I worked in the Health Care industry as a graphic designer and data entry specialist. Outside of the design world i have worked as a background vocalist for several artist as well as a musical theater actor in local touring companies. I am currently enrolled in Galvanize’s Full Stack Web Developer Immersive Program. As a student here, i’m keeping up with todays design trends and technology. I am learning industry standards, clean code base and creating visually appealing applications. My goal is to to take all the amazing skills I’ve learned from Galvanize and put those skills to work at a start-up and a company that utilizes current design standards and technology.",
+            "albums": [
+                {"albumId":"f1","title":"Street survivors","year":1979,"cover":"mike.jpg","price":20},
+                {"albumId":"f2","title":"Gimme back my bullets","year":1997,"cover":"gimme_back_my_bullets.jpg","price":25},
+                {"albumId":"f3","title":"Last of a dying breed","year":2000,"cover":"Last_Of_A_Dyin_Breed.jpg","price":15}
+            ],
+            "Capstone":"Black Superheroes VR"
+        },
+        {
+            "id": 7,
+            "name": "Mona Temchin",
+            "cover":"mona5.jpg",
+            "bio":"I’m a very creative person who enjoys using my imagination to create and build. In my former life, I was a hard working mainframe programmer. So although the Javascript and React ecosystem is very different from the mainframe, I already know how to think and solve problems in a software engineering way. I enjoy using both sides of my brain!! When I’m not coding, I can be found reading (mostly fantasy and science fiction), taking spin classes, eating vegetarian food, studying holistic healing, writing, gaming, or cuddling with my cat, Yogi. Also, I love all things purple. I’m looking forward to contributing to a business where I’m a good fit for the company culture.",
+            "albums": [
+                {"albumId":"g1","title":"Californication","year":1979,"cover":"mona.jpg","price":20},
+                {"albumId":"g2","title":"Blood sugar sex magic","year":1997,"cover":"mona3.jpg","price":25},
+                {"albumId":"g3","title":"Cant stop","year":2000,"cover":"mona4.jpg","price":15},
+                {"albumId":"g3","title":"The gateway","year":2000,"cover":"the_gateway.jpg","price":15}
+            ],
+            "Capstone":"Fabia’s Fabulous Fairytales"
+        },
+        {
+            "id": 8,
+            "name": "Gonpo Lama",
+            "cover":"po5.jpg",
+            "bio":"My name is Gonpo Lama and I am part of the g72 web development cohort at Galvanize. I am Tibetan by ethnicity, but also spent a lot of time growing up in Nepal, India, and Taiwan before finally ending up in the United States, where I got a degree from Williams College. I became interested in programming after working as a grant writer and technical recruiter; coding appealed to my passion for solving difficult problems, love of languages, and meticulous nature.",
+            "albums": [
+                {"albumId":"h1","title":"5","year":1979,"cover":"po.jpg","price":20},
+                {"albumId":"h2","title":"Are you gonna go my way","year":1997,"cover":"po3.jpg","price":25},
+                {"albumId":"h3","title":"Let love rule","year":2000,"cover":"po4.jpg","price":15}
+            ],
+            "Capstone":"Hellafit"
+        },
+        {
+            "id": 9,
+            "name": "Riley Green",
+            "cover":"riley8.jpg",
+            "bio":"Please contact Riley directly to learn more.",
+            "albums": [
+                {"albumId":"h1","title":"Elephant","year":1979,"cover":"riley.jpg","price":20},
+                {"albumId":"h2","title":"Under great white northern lights","year":1997,"cover":"riley7.jpg","price":25},
+                {"albumId":"h3","title":"Icky thump","year":2000,"cover":"riley3.jpg","price":15}
+            ],
+            "Capstone":"Bus Schedules and Donation"
+        },
+        {
+            "id": 10,
+            "name": "G72 Developers",
+            "cover":"students.jpg",
+            "bio":"Galvanize is a collection of modern, urban campuses where people can access the skills and network they need in-person or online to level up in tech. Our culture is shaped by first-time entrepreneurs and growing startups, to Fortune 1000 companies.",
+            "albums": [
+                {"albumId":"h1","title":"Ten","year":1979,"cover":"students.jpg","price":20},
+                {"albumId":"h2","title":"Vs","year":1997,"cover":"students2.jpg","price":25},
+                {"albumId":"h3","title":"Vitalogy","year":2000,"cover":"students3.jpg","price":15}
+            ],
+            "Capstone":"Software Engineers"
+        },
+        {
+            "id": 11,
+            "name": "Union Square",
+            "cover":"usq.jpg",
+            "bio":"Galvanize is a collection of modern, urban campuses where people can access the skills and network they need in-person or online to level up in tech. Our culture is shaped by first-time entrepreneurs and growing startups, to Fortune 1000 companies.",
+            "albums": [
+                {"albumId":"h1","title":"Elephant","year":1979,"cover":"usq2.jpg","price":20},
+                {"albumId":"h2","title":"Under great white northern lights","year":1997,"cover":"usq20.jpg","price":25},
+                {"albumId":"h3","title":"Icky thump","year":2000,"cover":"usq4.jpg","price":15},
+                {"albumId":"h3","title":"Icky thump","year":2000,"cover":"usq5.jpg","price":15},
+                {"albumId":"h3","title":"Icky thump","year":2000,"cover":"usq6.jpg","price":15},
+                {"albumId":"h3","title":"Icky thump","year":2000,"cover":"usq7.jpg","price":15},
+                {"albumId":"h3","title":"Icky thump","year":2000,"cover":"usq8.jpg","price":15},
+                {"albumId":"h3","title":"Icky thump","year":2000,"cover":"usq9.jpg","price":15},
+                {"albumId":"h3","title":"Icky thump","year":2000,"cover":"usq10.jpg","price":15},
+                {"albumId":"h3","title":"Icky thump","year":2000,"cover":"usq11.jpg","price":15},
+                {"albumId":"h3","title":"Icky thump","year":2000,"cover":"usq12.jpg","price":15},
+                {"albumId":"h3","title":"Icky thump","year":2000,"cover":"usq13.jpg","price":15},
+                {"albumId":"h3","title":"Icky thump","year":2000,"cover":"usq14.jpg","price":15},
+                {"albumId":"h3","title":"Icky thump","year":2000,"cover":"usq15.jpg","price":15},
+                {"albumId":"h3","title":"Icky thump","year":2000,"cover":"usq16.jpg","price":15},
+                {"albumId":"h3","title":"Icky thump","year":2000,"cover":"usq17.jpg","price":15},
+                {"albumId":"h3","title":"Icky thump","year":2000,"cover":"usq18.jpg","price":15}
+
+            ],
+            "Capstone":"G72 Capstone"
+        },
+        {
+            "id": 12,
+            "name": "Teachers",
+            "cover":"teachers.jpg",
+            "bio":"Galvanize is a collection of modern, urban campuses where people can access the skills and network they need in-person or online to level up in tech. Our culture is shaped by first-time entrepreneurs and growing startups, to Fortune 1000 companies.",
+            "albums": [
+                {"albumId":"h6","title":"Vitalogy","year":2000,"cover":"steve.jpg","price":15},
+                {"albumId":"h1","title":"Ten","year":1979,"cover":"arthur.jpg","price":20},
+                {"albumId":"h2","title":"Vs","year":1997,"cover":"chase.jpg","price":25},
+                {"albumId":"h4","title":"Vitalogy","year":2000,"cover":"jen3.jpg","price":15},
+                {"albumId":"h5","title":"Vitalogy","year":2000,"cover":"del.jpg","price":15}
+
+            ],
+            "Capstone":"Awesome Faculties"
+        }
+    ]
+  }
